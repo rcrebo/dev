@@ -1,5 +1,5 @@
 # Welcome
-<i>Last update<i/> ``31/12/2023``
+<i>Last update ``31/12/2023``<i/>
 <br>
 Useful links for web development and data analytics
 
