@@ -1,9 +1,8 @@
 # Welcome
 <i>Last update<i/> ``31/12/2023``
-
+<br>
 Useful links for web development and data analytics <br>
 
-<br>
 <br>
 
 ## Documentation
