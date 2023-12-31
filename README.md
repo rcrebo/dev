@@ -5,6 +5,7 @@ Last update ``31/12/2023``
 <i>Useful links for web development and data analytics</i>
 
 <br>
+<br>
 
 ## Documentation
 + [Markdown](https://www.markdownguide.org/)
