@@ -8,4 +8,6 @@ Mapping and entity relationship mapping software
 
 + [Draw.io](https://www.drawio.com/)
 + [DB Diagram](https://dbdiagram.io/home)
+
+## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
