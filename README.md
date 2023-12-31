@@ -1,5 +1,5 @@
 # Welcome
-Here you will find a list of useful items for web development
+Useful links for web development and data analytics
 <br>
 <br>
 
