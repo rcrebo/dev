@@ -1,5 +1,4 @@
-# Web
-Useful resources for software and web development
+### Web - Useful resources for software and web development
 
 # Data
 Mapping and entity relationship mapping software
