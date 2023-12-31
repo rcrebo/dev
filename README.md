@@ -8,6 +8,7 @@ Useful links for web development and data analytics
 + [Python](https://www.python.org/doc/)
 + [Visual Studio Code](https://code.visualstudio.com/docs)
 + [DAX Guide](https://dax.guide/)
++ [.NET](https://learn.microsoft.com/en-gb/dotnet/)
 
 ## Data
 Mapping and entity relationship mapping software
@@ -41,7 +42,7 @@ Mapping and entity relationship mapping software
 + [SmartForms](https://www.smartforms.dev/)
 + [JotForm](https://www.jotform.com/)
 
-see more [here](https://jekyllrb.com/resources/)
+<i>see more [here](https://jekyllrb.com/resources/)<i/>
 
 ## Cloud platforms
 + [Heroku](https://www.heroku.com/what)
