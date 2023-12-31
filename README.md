@@ -1,7 +1,8 @@
 # Welcome
 Here you will find a list of useful gizmos for web development
 
-<hr>
+<br>
+<br>
 
 ## Data
 Mapping and entity relationship mapping software
