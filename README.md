@@ -57,3 +57,6 @@ Mapping and entity relationship mapping software
 
 ## CSS
 + [CSS Tricks](https://css-tricks.com/)
+
+## Business
++ [Namelix](https://namelix.com/) - business name generator 
