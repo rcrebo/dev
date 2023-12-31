@@ -11,6 +11,10 @@ Mapping and entity relationship mapping software
 
 ## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
++ [D3js](https://d3js.org/)
++ [Deneb for PowerBI](https://deneb-viz.github.io/)
++ [Deneb templates Kerry Kolosko](https://kerrykolosko.com/portfolio-category/deneb-templates/)
++ [Deneb Showcase PBI David](https://github.com/PBI-David/Deneb-Showcase)
 
 ## Low-code website builders
 + [Framer](https://framer.com/)
