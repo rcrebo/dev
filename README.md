@@ -35,6 +35,8 @@ Mapping and entity relationship mapping software
 + [SmartForms](https://www.smartforms.dev/)
 + [JotForm](https://www.jotform.com/)
 
+see more [here](https://jekyllrb.com/resources/)
+
 ## Cloud platforms
 + [Heroku](https://www.heroku.com/what)
 + [AWS](https://aws.amazon.com/)
