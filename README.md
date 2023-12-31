@@ -27,7 +27,7 @@ Mapping and entity relationship mapping software
 + [Bulma](https://bulma.io/)
 + [React](https://react.dev/)
 
-## webforms
+## Webforms
 + [Arengu](https://www.arengu.com/)
 + [Formingo](https://www.formingo.co/)
 + [FormKeep](https://formkeep.com/)
