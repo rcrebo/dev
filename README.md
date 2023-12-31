@@ -44,7 +44,7 @@ Mapping and entity relationship mapping software
 + [SmartForms](https://www.smartforms.dev/)
 + [JotForm](https://www.jotform.com/)
 
-<i>see more [here](https://jekyllrb.com/resources/)<i/>
+<i>see more [here](https://jekyllrb.com/resources/)</i>
 
 ## Cloud platforms
 + [Heroku](https://www.heroku.com/what)
@@ -53,6 +53,7 @@ Mapping and entity relationship mapping software
 
 ## UX
 + [UX Cookbook](https://theuxcookbook.com/)
++ [Design Systems](https://designsystems.surf/)
 
 ## CSS
 + [CSS Tricks](https://css-tricks.com/)
