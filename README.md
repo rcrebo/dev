@@ -50,7 +50,7 @@ Mapping and entity relationship mapping software
 + [Azure](https://azure.microsoft.com/)
 
 ## UX
-+[UX Cookbook](https://theuxcookbook.com/)
++ [UX Cookbook](https://theuxcookbook.com/)
 
 ## CSS
-+[CSS Tricks](https://css-tricks.com/)
++ [CSS Tricks](https://css-tricks.com/)
