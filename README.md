@@ -3,6 +3,12 @@ Useful links for web development and data analytics
 <br>
 <br>
 
+## Documentation
++ [Markdown](https://www.markdownguide.org/)
++ [Python](https://www.python.org/doc/)
++ [Visual Studio Code](https://code.visualstudio.com/docs)
++ [DAX Guide](https://dax.guide/)
+
 ## Data
 Mapping and entity relationship mapping software
 
@@ -41,3 +47,9 @@ see more [here](https://jekyllrb.com/resources/)
 + [Heroku](https://www.heroku.com/what)
 + [AWS](https://aws.amazon.com/)
 + [Azure](https://azure.microsoft.com/)
+
+## UX
++[UX Cookbook](https://theuxcookbook.com/)
+
+## CSS
++[CSS Tricks](https://css-tricks.com/)
