@@ -33,3 +33,8 @@ Mapping and entity relationship mapping software
 + [FormKeep](https://formkeep.com/)
 + [Formspree (Open Source)](https://formspree.io/)
 + [SmartForms](https://www.smartforms.dev/)
+
+## Cloud platforms
++ [Heroku](https://www.heroku.com/what)
++ [AWS](https://aws.amazon.com/)
++ [Azure](https://azure.microsoft.com/)
