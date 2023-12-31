@@ -1,6 +1,9 @@
-## welcome to my web repo: <i>useful resources for software and web development</i>
+# Welcome
+Here you will find a list of useful gizmos for web development
 
-# Data
+<hr>
+
+## Data
 Mapping and entity relationship mapping software
 
 + [Draw.io](https://www.drawio.com/)
