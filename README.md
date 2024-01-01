@@ -61,3 +61,4 @@ Mapping and entity relationship mapping software
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
 + [Creative Commons Licencing](https://creativecommons.org/share-your-work/) ;  [CC Chooser](https://chooser-beta.creativecommons.org/)
++ [Software Licencing](https://choosealicense.com/)
