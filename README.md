@@ -1,8 +1,6 @@
 # Welcome
 <i> Last update ``31/12/2023`` </i>
 
-"Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
-
 ### Useful links for web development and data analytics
 
 <br>
