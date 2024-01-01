@@ -1,6 +1,8 @@
 # Welcome
 <i> Last update ``31/12/2023`` </i>
 
+"Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+
 ### Useful links for web development and data analytics
 
 <br>
@@ -59,4 +61,5 @@ Mapping and entity relationship mapping software
 + [CSS Tricks](https://css-tricks.com/)
 
 ## Business
-+ [Namelix](https://namelix.com/) - business name generator 
++ [Namelix](https://namelix.com/) - business name generator
++ [Creative Commons Licencing](https://creativecommons.org/share-your-work/)
