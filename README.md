@@ -25,7 +25,8 @@ Mapping and entity relationship mapping software
 + [Deneb for PowerBI](https://deneb-viz.github.io/)
 + [Deneb templates Kerry Kolosko](https://kerrykolosko.com/portfolio-category/deneb-templates/)
 + [Deneb Showcase PBI David](https://github.com/PBI-David/Deneb-Showcase)
-+ [Apache ECharts](https://echarts.apache.org/en/index.html)
++ [Apache ECharts](https://echarts.apache.org/en/index.html) - An Open Source JavaScript Visualization Library
+
 
 ## Low-code website builders
 + [Framer](https://framer.com/)
