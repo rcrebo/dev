@@ -1,11 +1,12 @@
 # Welcome
-<i> Last update ``31/12/2023`` </i>
+<i> Last update ``01/01/2024`` </i>
 
 ### Useful links for web development and data analytics
 
 <br>
 
 ## Documentation
++ [MDN Web Docs](https://developer.mozilla.org/en-US/)
 + [Markdown](https://www.markdownguide.org/)
 + [Python](https://www.python.org/doc/)
 + [Visual Studio Code](https://code.visualstudio.com/docs)
