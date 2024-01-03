@@ -60,6 +60,7 @@ Mapping and entity relationship mapping software
 
 ## CSS
 + [CSS Tricks](https://css-tricks.com/)
++ [Favicon Generator](https://favicon.io/favicon-generator/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
