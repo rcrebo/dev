@@ -70,3 +70,7 @@ Mapping and entity relationship mapping software
 + [Namelix](https://namelix.com/) - business name generator
 + [Creative Commons Licencing](https://creativecommons.org/share-your-work/) ;  [CC Chooser](https://chooser-beta.creativecommons.org/)
 + [Software Licencing](https://choosealicense.com/)
+
+## Python
++ [PyPI](https://pypi.org/)
++[Python for excel](https://www.python-excel.org/)
