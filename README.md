@@ -73,4 +73,4 @@ Mapping and entity relationship mapping software
 
 ## Python
 + [PyPI](https://pypi.org/)
-+[Python for excel](https://www.python-excel.org/)
++ [Python for excel](https://www.python-excel.org/)
