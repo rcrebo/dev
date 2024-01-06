@@ -39,6 +39,9 @@ Mapping and entity relationship mapping software
 + [Bulma](https://bulma.io/)
 + [React](https://react.dev/)
 + [PyPI](https://pypi.org/)
++ [Django](https://www.djangoproject.com/)
++ [Flask](https://flask.palletsprojects.com/en/3.0.x/)
++ [React](https://react.dev/)
 
 ## Webforms
 + [Arengu](https://www.arengu.com/)
