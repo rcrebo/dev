@@ -15,8 +15,7 @@
 + [Create Documentation](https://about.readthedocs.com/) - Readthedocs.com
 
 ## Data
-Mapping and entity relationship mapping software
-
++ [Public APIs Github repo](https://github.com/public-apis/public-apis)
 + [Draw.io](https://www.drawio.com/)
 + [DB Diagram](https://dbdiagram.io/home)
 
