@@ -45,6 +45,7 @@ Mapping and entity relationship mapping software
 + [React](https://react.dev/)
 
 ## Webforms
++ [Django Forms](https://docs.djangoproject.com/en/5.0/topics/forms/)
 + [Arengu](https://www.arengu.com/)
 + [Formingo](https://www.formingo.co/)
 + [FormKeep](https://formkeep.com/)
