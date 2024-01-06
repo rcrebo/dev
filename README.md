@@ -33,11 +33,12 @@ Mapping and entity relationship mapping software
 + [Wix EditorX](https://www.editorx.com/)
 + [Webflow](https://webflow.com/)
 
-## Frameworks
+## Frameworks/Libraries
 + [Jekyll for GitHub](https://jekyllrb.com/)
 + [Bootstrap](https://getbootstrap.com/)
 + [Bulma](https://bulma.io/)
 + [React](https://react.dev/)
++ [PyPI](https://pypi.org/)
 
 ## Webforms
 + [Arengu](https://www.arengu.com/)
