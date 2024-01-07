@@ -83,3 +83,5 @@
 + [Openpyxl - Python for excel](https://openpyxl.readthedocs.io/en/stable/)
 + [Py PDF](https://pypdf2.readthedocs.io/en/3.0.0/)
 + [Other PDF libraries](https://www.binpress.com/manipulate-pdf-python/)
++ [Emails setup/send](https://docs.python.org/3/library/smtplib.html)
++ [Email: Script incoming](https://docs.python.org/3/library/smtplib.html)
