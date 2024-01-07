@@ -76,3 +76,4 @@
 + [PyPI](https://pypi.org/)
 + [Python for excel](https://www.python-excel.org/)
 + [Numpy](https://numpy.org/)
++ [Pillow Image Library](https://pillow.readthedocs.io/en/stable/)
