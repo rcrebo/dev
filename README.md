@@ -15,6 +15,7 @@
 
 ## Data
 + [Public APIs Github repo](https://github.com/public-apis/public-apis)
++ [Pandas - Python library](https://pandas.pydata.org/)
 + [Draw.io](https://www.drawio.com/)
 + [DB Diagram](https://dbdiagram.io/home)
 
@@ -77,3 +78,4 @@
 + [Python for excel](https://www.python-excel.org/)
 + [Numpy](https://numpy.org/)
 + [Pillow Image Library](https://pillow.readthedocs.io/en/stable/)
++ [Pandas](https://pandas.pydata.org/)
