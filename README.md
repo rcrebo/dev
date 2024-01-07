@@ -1,5 +1,4 @@
 # Welcome
-<i> Last update ``01/01/2024`` </i>
 
 ### Useful links for web development and data analytics
 
