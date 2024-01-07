@@ -66,6 +66,7 @@
 ## CSS
 + [CSS Tricks](https://css-tricks.com/)
 + [Favicon Generator](https://favicon.io/favicon-generator/)
++ [Landing pages explained](https://landingpagesexplained.com/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
