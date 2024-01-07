@@ -81,3 +81,4 @@
 + [Pillow Image Library](https://pillow.readthedocs.io/en/stable/)
 + [Pandas](https://pandas.pydata.org/)
 + [Openpyxl - Python for excel](https://openpyxl.readthedocs.io/en/stable/)
++ [Py PDF](https://pypdf2.readthedocs.io/en/3.0.0/)
