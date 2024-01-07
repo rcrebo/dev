@@ -28,6 +28,7 @@
 + [Deneb Showcase PBI David](https://github.com/PBI-David/Deneb-Showcase)
 + [Apache ECharts](https://echarts.apache.org/en/index.html) - An Open Source JavaScript Visualization Library
 + [Matplotlib](https://matplotlib.org/) - Python library
++ [Plotly](https://plotly.com/graphing-libraries/)
 
 
 ## Low-code website builders
