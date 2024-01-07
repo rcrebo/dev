@@ -27,6 +27,7 @@
 + [Deneb templates Kerry Kolosko](https://kerrykolosko.com/portfolio-category/deneb-templates/)
 + [Deneb Showcase PBI David](https://github.com/PBI-David/Deneb-Showcase)
 + [Apache ECharts](https://echarts.apache.org/en/index.html) - An Open Source JavaScript Visualization Library
++ [Matplotlib](https://matplotlib.org/) - Python library
 
 
 ## Low-code website builders
@@ -86,3 +87,4 @@
 + [Emails setup/send](https://docs.python.org/3/library/smtplib.html)
 + [Email: Script incoming](https://docs.python.org/3/library/smtplib.html)
 + [GUI Programming](https://wiki.python.org/moin/GuiProgramming)
++ [Matplotlib](https://matplotlib.org/) - Python library
