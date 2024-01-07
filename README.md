@@ -85,3 +85,4 @@
 + [Other PDF libraries](https://www.binpress.com/manipulate-pdf-python/)
 + [Emails setup/send](https://docs.python.org/3/library/smtplib.html)
 + [Email: Script incoming](https://docs.python.org/3/library/smtplib.html)
++ [GUI Programming](https://wiki.python.org/moin/GuiProgramming)
