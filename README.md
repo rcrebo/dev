@@ -8,6 +8,7 @@
 + [MDN Web Docs](https://developer.mozilla.org/en-US/)
 + [Markdown](https://www.markdownguide.org/)
 + [Python](https://www.python.org/doc/)
++ [Full Stack Python](https://www.fullstackpython.com/)
 + [Visual Studio Code](https://code.visualstudio.com/docs)
 + [DAX Guide](https://dax.guide/)
 + [.NET](https://learn.microsoft.com/en-gb/dotnet/)
