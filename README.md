@@ -33,6 +33,7 @@
 + [Apache ECharts](https://echarts.apache.org/en/index.html) - An Open Source JavaScript Visualization Library
 + [Matplotlib](https://matplotlib.org/) - Python library
 + [Plotly](https://plotly.com/graphing-libraries/)
++ [Seaborn PyData](https://seaborn.pydata.org/)
 
 
 ## Low-code website builders
