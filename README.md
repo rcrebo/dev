@@ -15,6 +15,7 @@
 + [.NET](https://learn.microsoft.com/en-gb/dotnet/)
 + [Create Documentation](https://about.readthedocs.com/) - Readthedocs.com
 + [Dash - Plotly](https://dash.plotly.com/)
++ [React](https://react.dev/)
 + [DevDocs](https://devdocs.io/)
 
 ## Data
@@ -34,7 +35,6 @@
 + [Matplotlib](https://matplotlib.org/) - Python library
 + [Plotly](https://plotly.com/graphing-libraries/)
 + [Seaborn PyData](https://seaborn.pydata.org/)
-
 
 ## Low-code website builders
 + [Framer](https://framer.com/)
@@ -72,9 +72,10 @@
 + [Design Systems](https://designsystems.surf/)
 + [Landing pages explained](https://landingpagesexplained.com/)
 
-## CSS
+## CSS/Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
 + [Favicon Generator](https://favicon.io/favicon-generator/)
++ [GSAP JS Animation Library](https://gsap.com/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
