@@ -35,6 +35,7 @@
 + [Matplotlib](https://matplotlib.org/) - Python library
 + [Plotly](https://plotly.com/graphing-libraries/)
 + [Seaborn PyData](https://seaborn.pydata.org/)
++ [Zing Chart JS](https://www.zingchart.com/)
 
 ## Low-code website builders
 + [Framer](https://framer.com/)
