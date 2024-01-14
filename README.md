@@ -81,6 +81,7 @@
 + [Three.JS](https://threejs.org/)
 + [Pop Motion JS](https://popmotion.io/)
 + [React-Spring](https://www.react-spring.dev/)
++ [Kute.JS](https://thednp.github.io/kute.js/index.html)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
