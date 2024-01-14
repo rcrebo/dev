@@ -80,6 +80,7 @@
 + [Anime.JS](https://animejs.com/)
 + [Three.JS](https://threejs.org/)
 + [Pop Motion JS](https://popmotion.io/)
++ [React-Spring](https://www.react-spring.dev/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
