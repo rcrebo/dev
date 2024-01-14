@@ -83,6 +83,7 @@
 + [React-Spring](https://www.react-spring.dev/)
 + [VelocityJS](http://velocityjs.org/)
 + [Kute.JS](https://thednp.github.io/kute.js/index.html)
++ [Awesome GitHub Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
