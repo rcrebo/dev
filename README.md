@@ -73,10 +73,13 @@
 + [Design Systems](https://designsystems.surf/)
 + [Landing pages explained](https://landingpagesexplained.com/)
 
-## CSS/Animation etc.
+## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
 + [Favicon Generator](https://favicon.io/favicon-generator/)
 + [GSAP JS Animation Library](https://gsap.com/)
++ [Anime.JS](https://animejs.com/)
++ [Three.JS](https://threejs.org/)
++ [Pop Motion JS](https://popmotion.io/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
