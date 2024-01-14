@@ -84,6 +84,7 @@
 + [VelocityJS](http://velocityjs.org/)
 + [Kute.JS](https://thednp.github.io/kute.js/index.html)
 + [Awesome GitHub Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)
++ [Scrollify](https://projects.lukehaas.me/scrollify/#home)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
