@@ -105,3 +105,4 @@
 + [GUI Programming](https://wiki.python.org/moin/GuiProgramming)
 + [Matplotlib](https://matplotlib.org/) - Python library
 + [Automate the boring stuff](https://automatetheboringstuff.com/)
++ [Python Tutorial](https://www.pythontutorial.net/)
