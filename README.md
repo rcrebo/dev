@@ -36,6 +36,7 @@
 + [Plotly](https://plotly.com/graphing-libraries/)
 + [Seaborn PyData](https://seaborn.pydata.org/)
 + [Zing Chart JS](https://www.zingchart.com/)
++ [Bokeh (Python)](https://bokeh.org/)
 
 ## Low-code website builders
 + [Framer](https://framer.com/)
