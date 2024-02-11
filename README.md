@@ -24,6 +24,7 @@
 + [Openpyxl - Python for excel](https://openpyxl.readthedocs.io/en/stable/)
 + [Draw.io](https://www.drawio.com/)
 + [DB Diagram](https://dbdiagram.io/home)
++ [DrawSQL](https://drawsql.app/)
 
 ## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
