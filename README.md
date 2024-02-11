@@ -25,6 +25,7 @@
 + [Draw.io](https://www.drawio.com/)
 + [DB Diagram](https://dbdiagram.io/home)
 + [DrawSQL](https://drawsql.app/)
++ [Table Plus](https://tableplus.com/)
 
 ## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
