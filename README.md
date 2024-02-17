@@ -54,6 +54,7 @@
 + [Django](https://www.djangoproject.com/)
 + [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 + [React](https://react.dev/)
++ [HTMX](https://htmx.org/)
 
 ## Webforms
 + [Django Forms](https://docs.djangoproject.com/en/5.0/topics/forms/)
