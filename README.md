@@ -39,6 +39,7 @@
 + [Seaborn PyData](https://seaborn.pydata.org/)
 + [Zing Chart JS](https://www.zingchart.com/)
 + [Bokeh (Python)](https://bokeh.org/)
++ [Power BI Theme Generator](https://themegenerator.point-gmbh.com/de/Home)
 
 ## Low-code website builders
 + [Framer](https://framer.com/)
