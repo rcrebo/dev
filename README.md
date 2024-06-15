@@ -40,6 +40,7 @@
 + [Zing Chart JS](https://www.zingchart.com/)
 + [Bokeh (Python)](https://bokeh.org/)
 + [Power BI Theme Generator](https://themegenerator.point-gmbh.com/de/Home)
++ [Superset](https://superset.apache.org/)
 
 ## Low-code website builders
 + [Framer](https://framer.com/)
