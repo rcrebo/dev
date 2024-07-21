@@ -46,6 +46,11 @@
 + [Framer](https://framer.com/)
 + [Wix EditorX](https://www.editorx.com/)
 + [Webflow](https://webflow.com/)
++ [Bubble](https://bubble.io/)
++ [Framer](https://www.framer.com/)
++ [Replit AI](https://replit.com/)
++ [Buildship](https://buildship.com/)
++ [Flutterflow](https://flutterflow.io/)
 
 ## Frameworks/Libraries
 + [Jekyll for GitHub](https://jekyllrb.com/)
@@ -115,8 +120,3 @@
 + [Automate the boring stuff](https://automatetheboringstuff.com/)
 + [Python Tutorial](https://www.pythontutorial.net/)
 
-## Low Cdoe App Builders
-+ [Bubble](https://bubble.io/)
-+ [Framer](https://www.framer.com/)
-+ [Replit AI](https://replit.com/)
-+ [Webflow](https://webflow.com/)
