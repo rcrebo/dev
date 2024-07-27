@@ -48,6 +48,9 @@
 + [Next-Auth](https://next-auth.js.org/) - BYO Authentication, Magic Links etc
 + [Kinde](https://kinde.com/)
 
+## Datasets
++ [Kaggle](https://www.kaggle.com/datasets) - Explore, analyse and share quality data
+
 ## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
 + [D3js](https://d3js.org/)
