@@ -149,3 +149,6 @@
 + [Bitcoin](https://bitcoin.org/en/)
 + [Ethereum](https://ethereum.org/en/)
 + [Codex.io](https://www.codex.io/) - API for Blockchain Data
++ [Avalanche](https://www.avax.network/)
++ [Chainalysis](https://www.chainalysis.com/)
++ [Ripple](https://ripple.com/) - Crypto and Blockchain solutions
