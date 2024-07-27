@@ -79,6 +79,7 @@
 + [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 + [React](https://react.dev/)
 + [HTMX](https://htmx.org/)
++ [Shadcn/UI](https://ui.shadcn.com/) - Modern component library
 
 ## Webforms
 + [Django Forms](https://docs.djangoproject.com/en/5.0/topics/forms/)
