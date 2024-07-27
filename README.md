@@ -29,11 +29,20 @@
 + [Eraser.io](https://www.eraser.io/)
 
 ## Databases
+#### SQL
++ [Postgres](https://www.postgresql.org/)
++ [MySQL](https://www.mysql.com/)
++ [SQLite](https://www.sqlite.org/)
 
 #### ORM
 + [Prisma](https://www.prisma.io/)
 + [Drizzle](https://orm.drizzle.team/)
 + [Mongoose](https://mongoosejs.com/)
+
+#### Hosted DB Services
++ [Supabase](https://supabase.com/)
++ [Firebase](https://firebase.google.com/)
++ [Vercel](https://vercel.com/home)
 
 ## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
