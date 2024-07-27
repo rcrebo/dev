@@ -74,7 +74,7 @@
 + [Bootstrap](https://getbootstrap.com/)
 + [Bulma](https://bulma.io/)
 + [React](https://react.dev/)
-+ [PyPI](https://pypi.org/)
++ [PyPI](https://pypi.org/) - The Python Package Index (PyPI) is a repository of software for the Python programming language.
 + [Django](https://www.djangoproject.com/)
 + [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 + [React](https://react.dev/)
