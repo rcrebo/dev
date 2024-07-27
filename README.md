@@ -50,6 +50,7 @@
 
 ## Datasets
 + [Kaggle](https://www.kaggle.com/datasets) - Explore, analyse and share quality data
++ [AWS - Registry of Open Data](https://registry.opendata.aws/)
 
 ## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
