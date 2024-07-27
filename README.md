@@ -80,6 +80,7 @@
 + [React](https://react.dev/)
 + [HTMX](https://htmx.org/)
 + [Shadcn/UI](https://ui.shadcn.com/) - Modern component library
++ [Radix UI](https://www.radix-ui.com/)
 
 ## Webforms
 + [Django Forms](https://docs.djangoproject.com/en/5.0/topics/forms/)
@@ -89,6 +90,7 @@
 + [Formspree (Open Source)](https://formspree.io/)
 + [SmartForms](https://www.smartforms.dev/)
 + [JotForm](https://www.jotform.com/)
++ [Zod](https://zod.dev/) - Form validations
 
 <i>see more [here](https://jekyllrb.com/resources/)</i>
 
