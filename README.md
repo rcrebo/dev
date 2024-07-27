@@ -26,6 +26,7 @@
 + [DB Diagram](https://dbdiagram.io/home)
 + [DrawSQL](https://drawsql.app/)
 + [Table Plus](https://tableplus.com/)
++ [Eraser.io](https://www.eraser.io/)
 
 ## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
@@ -98,6 +99,7 @@
 + [Awesome GitHub Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)
 + [Scrollify](https://projects.lukehaas.me/scrollify/#home)
 + [Coolors Themes](https://coolors.co/)
++ [Tailwind CSS](https://tailwindcss.com/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
