@@ -145,3 +145,7 @@
 + [Automate the boring stuff](https://automatetheboringstuff.com/)
 + [Python Tutorial](https://www.pythontutorial.net/)
 
+## Blockchain
++ [Bitcoin](https://bitcoin.org/en/)
++ [Ethereum](https://ethereum.org/en/)
++ [Codex.io](https://www.codex.io/) - API for Blockchain Data
