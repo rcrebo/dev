@@ -44,6 +44,10 @@
 + [Firebase](https://firebase.google.com/)
 + [Vercel](https://vercel.com/home)
 
+#### User Authentication
++ [Next-Auth](https://next-auth.js.org/) - BYO Authentication, Magic Links etc
++ [Kinde](https://kinde.com/)
+
 ## Data visualisation
 + [Microsoft Power BI](https://powerbi.microsoft.com/)
 + [D3js](https://d3js.org/)
