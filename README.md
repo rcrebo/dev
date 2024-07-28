@@ -115,6 +115,10 @@
 + [Wireframes](https://www.wireframe-examples.com/?utm_source=tldrdesign)
 + [Awwwards](https://www.awwwards.com/)
 + [Spline](https://spline.design/) - 3D design tool
++ [Minimal.Gallery](https://minimal.gallery/)
++ [Dark Mode Design](https://www.darkmodedesign.com/)
++ [Refero Design](https://refero.design/)
++ [Stack sorted](https://stacksorted.com/)
 
 ## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
