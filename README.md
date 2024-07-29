@@ -157,6 +157,7 @@
 + [Matplotlib](https://matplotlib.org/) - Python library
 + [Automate the boring stuff](https://automatetheboringstuff.com/)
 + [Python Tutorial](https://www.pythontutorial.net/)
++ [Reflex](https://reflex.dev/)
 
 ## Blockchain
 + [Bitcoin](https://bitcoin.org/en/)
