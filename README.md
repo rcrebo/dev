@@ -76,6 +76,7 @@
 + [Replit AI](https://replit.com/)
 + [Buildship](https://buildship.com/)
 + [Flutterflow](https://flutterflow.io/)
++ [Make](https://www.make.com/en)
 
 ## Frameworks/Libraries
 + [Jekyll for GitHub](https://jekyllrb.com/)
@@ -121,6 +122,7 @@
 + [Relume](https://www.relume.io/)
 + [Tilebit.io](https://www.tilebit.io/)
 + [Pillarstack](https://www.pillarstack.com/)
++ [Looka](https://looka.com/) - Logo maker
 
 ## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
