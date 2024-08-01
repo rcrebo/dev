@@ -90,6 +90,7 @@
 + [HTMX](https://htmx.org/)
 + [Shadcn/UI](https://ui.shadcn.com/) - Modern component library
 + [Radix UI](https://www.radix-ui.com/)
++ [Flowbite](https://flowbite.com/)
 
 ## Webforms
 + [Django Forms](https://docs.djangoproject.com/en/5.0/topics/forms/)
@@ -100,6 +101,7 @@
 + [SmartForms](https://www.smartforms.dev/)
 + [JotForm](https://www.jotform.com/)
 + [Zod](https://zod.dev/) - Form validations
++ [Kwesforms](https://kwesforms.com/)
 
 <i>see more [here](https://jekyllrb.com/resources/)</i>
 
