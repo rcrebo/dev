@@ -91,6 +91,7 @@
 + [Shadcn/UI](https://ui.shadcn.com/) - Modern component library
 + [Radix UI](https://www.radix-ui.com/)
 + [Flowbite](https://flowbite.com/)
++ [JS Libraries](https://kinsta.com/blog/javascript-libraries/)
 
 ## Webforms
 + [Django Forms](https://docs.djangoproject.com/en/5.0/topics/forms/)
