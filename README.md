@@ -126,6 +126,7 @@
 + [Tilebit.io](https://www.tilebit.io/)
 + [Pillarstack](https://www.pillarstack.com/)
 + [Looka](https://looka.com/) - Logo maker
++ [Landing.Love](https://www.landing.love/)
 
 ## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
