@@ -127,6 +127,7 @@
 + [Pillarstack](https://www.pillarstack.com/)
 + [Looka](https://looka.com/) - Logo maker
 + [Landing.Love](https://www.landing.love/)
++ [Magic UI](https://magicui.design/)
 
 ## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
