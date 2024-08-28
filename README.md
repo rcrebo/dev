@@ -93,6 +93,7 @@
 + [Flowbite](https://flowbite.com/)
 + [DaisyUI for Tailwind](https://daisyui.com/)
 + [JS Libraries](https://kinsta.com/blog/javascript-libraries/)
++ [Aceternity UI](https://ui.aceternity.com/)
 
 ## Webforms
 + [Django Forms](https://docs.djangoproject.com/en/5.0/topics/forms/)
