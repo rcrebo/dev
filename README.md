@@ -175,3 +175,6 @@
 + [Avalanche](https://www.avax.network/)
 + [Chainalysis](https://www.chainalysis.com/)
 + [Ripple](https://ripple.com/) - Crypto and Blockchain solutions
+
+## LLMs
++ [Unstract - Whisper](https://unstract.com/llmwhisperer/) - preprocess pdf image to text before running through LLM to extract context
