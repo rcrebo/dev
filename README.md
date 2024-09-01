@@ -179,6 +179,7 @@
 ## LLMs
 + [Hugging Face - Models](https://huggingface.co/models)
 + [Unstract - Whisper](https://unstract.com/llmwhisperer/) - preprocess pdf image to text before running through LLM to extract context [Example](https://github.com/svpino/unstract-llmwhisperer-sample)
++ [LangChain PDF Answering](https://js.langchain.com/v0.2/docs/tutorials/pdf_qa/)
 
 ## Games
 + [PyGames](https://www.pygame.org/news)
