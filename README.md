@@ -133,6 +133,7 @@
 + [Looka](https://looka.com/) - Logo maker
 + [Landing.Love](https://www.landing.love/)
 + [Magic UI](https://magicui.design/)
++ [Mobbin](https://mobbin.com/) - UI design library
 
 ## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
