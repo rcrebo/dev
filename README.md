@@ -1,6 +1,6 @@
 # Welcome
 
-### Useful links for web development and data analytics
+### Useful links for software engineering and data analytics
 
 <br>
 
