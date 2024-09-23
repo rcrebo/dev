@@ -47,6 +47,7 @@
 #### User Authentication
 + [Next-Auth](https://next-auth.js.org/) - BYO Authentication, Magic Links etc
 + [Kinde](https://kinde.com/)
++ [Supertokens](https://supertokens.com/) - Open source Auth
 
 ## Datasets
 + [Kaggle](https://www.kaggle.com/datasets) - Explore, analyse and share quality data
