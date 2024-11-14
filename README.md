@@ -152,6 +152,7 @@
 + [Scrollify](https://projects.lukehaas.me/scrollify/#home)
 + [Coolors Themes](https://coolors.co/)
 + [Tailwind CSS](https://tailwindcss.com/)
++ [Motion.dev](https://motion.dev/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
