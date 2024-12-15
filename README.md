@@ -137,6 +137,7 @@
 + [Landing.Love](https://www.landing.love/)
 + [Magic UI](https://magicui.design/)
 + [Mobbin](https://mobbin.com/) - UI design library
++ [UIVerse](https://uiverse.io/) - Open Source components library
 
 ## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
