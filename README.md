@@ -154,6 +154,7 @@
 + [Coolors Themes](https://coolors.co/)
 + [Tailwind CSS](https://tailwindcss.com/)
 + [Motion.dev](https://motion.dev/)
++ [Tailwind Motion](https://rombo.co/tailwind/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
