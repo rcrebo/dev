@@ -154,7 +154,7 @@
 + [Coolors Themes](https://coolors.co/)
 + [Tailwind CSS](https://tailwindcss.com/)
 + [Motion.dev](https://motion.dev/)
-+ [Tailwind Motion](https://rombo.co/tailwind/) [Link 2](https://www.npmjs.com/package/tailwindcss-motion)
++ [Tailwind Motion](https://rombo.co/tailwind/) [NPM](https://www.npmjs.com/package/tailwindcss-motion)
 + [Glaze](https://glaze.dev/)
 
 ## Business
