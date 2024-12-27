@@ -155,6 +155,7 @@
 + [Tailwind CSS](https://tailwindcss.com/)
 + [Motion.dev](https://motion.dev/)
 + [Tailwind Motion](https://rombo.co/tailwind/)
++ [Glaze](https://glaze.dev/)
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
