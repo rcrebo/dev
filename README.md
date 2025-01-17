@@ -101,6 +101,10 @@
 + [JS Libraries](https://kinsta.com/blog/javascript-libraries/)
 + [Aceternity UI](https://ui.aceternity.com/)
 
+## Wiki
++ [Wiki Media](https://www.mediawiki.org/wiki/MediaWiki)
++ [Docusaurus](https://docusaurus.io/)
+
 ## Webforms
 + [Django Forms](https://docs.djangoproject.com/en/5.0/topics/forms/)
 + [Arengu](https://www.arengu.com/)
@@ -118,6 +122,7 @@
 + [Heroku](https://www.heroku.com/what)
 + [AWS](https://aws.amazon.com/)
 + [Azure](https://azure.microsoft.com/)
++ [Digital Ocean](https://www.digitalocean.com/)
 
 ## UX
 + [UX Cookbook](https://theuxcookbook.com/)
