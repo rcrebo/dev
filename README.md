@@ -163,6 +163,7 @@
 + [Motion.dev](https://motion.dev/)
 + [Tailwind Motion](https://rombo.co/tailwind/) [NPM](https://www.npmjs.com/package/tailwindcss-motion)
 + [Glaze](https://glaze.dev/)
++ [21st Dev](https://21st.dev/) - NPM for design engineers
 
 ## Business
 + [Namelix](https://namelix.com/) - business name generator
