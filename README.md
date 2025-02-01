@@ -168,6 +168,9 @@
 + [Creative Commons Licencing](https://creativecommons.org/share-your-work/) ;  [CC Chooser](https://chooser-beta.creativecommons.org/)
 + [Software Licencing](https://choosealicense.com/)
 
+## Media
++ [Open Broadcaster](https://obsproject.com/) - Record your screen and take video
+
 ## Python
 + [PyPI](https://pypi.org/)
 + [Python for excel](https://www.python-excel.org/)
