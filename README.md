@@ -143,6 +143,7 @@
 + [Magic UI](https://magicui.design/)
 + [Mobbin](https://mobbin.com/) - UI design library
 + [UIVerse](https://uiverse.io/) - Open Source components library
++ [TailwindAwesome](https://www.tailwindawesome.com/?price=free&type=template) - Free site templates
 
 ## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
