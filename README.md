@@ -173,6 +173,7 @@
 
 ## Media
 + [Open Broadcaster](https://obsproject.com/) - Record your screen and take video
++ [Lummi AI - Images](https://www.lummi.ai/)
 
 ## Python
 + [PyPI](https://pypi.org/)
