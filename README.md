@@ -49,6 +49,7 @@
 + [Kinde](https://kinde.com/)
 + [Supertokens](https://supertokens.com/) - Open source Auth
 + [Clerk](https://clerk.com/)
++ [Better-Auth](https://www.better-auth.com/)
 
 ## Datasets
 + [Kaggle](https://www.kaggle.com/datasets) - Explore, analyse and share quality data
@@ -174,6 +175,11 @@
 ## Media
 + [Open Broadcaster](https://obsproject.com/) - Record your screen and take video
 + [Lummi AI - Images](https://www.lummi.ai/)
+
+## NextJS/React Ecosystem
++ [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction) - A small, fast, and scalable bearbones state management solution.
++ [Lenis](https://lenis.darkroom.engineering/) - Smooth scroll
++ [Radix-UI](https://www.radix-ui.com/)
 
 ## Python
 + [PyPI](https://pypi.org/)
