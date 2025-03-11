@@ -147,6 +147,8 @@
 + [Mobbin](https://mobbin.com/) - UI design library
 + [UIVerse](https://uiverse.io/) - Open Source components library
 + [TailwindAwesome](https://www.tailwindawesome.com/?price=free&type=template) - Free site templates
++ [Meshy](https://www.meshy.ai/) - 3D model gen 
++ [Untools](https://untools.co/) - Thinking tools and frameworks
 
 ## CSS/JS Animation etc.
 + [CSS Tricks](https://css-tricks.com/)
